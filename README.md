@@ -22,7 +22,7 @@
 
 
 ## 详细
-###[Android 高清加载巨图方案 拒绝压缩图片](http://blog.csdn.net/lmj623565791/article/details/49300989)
+###[Android 高清加载巨图方案 压缩图片](http://blog.csdn.net/lmj623565791/article/details/49300989)
 
 <img src="http://img.blog.csdn.net/20151021103013582" width="320px"/>
 
