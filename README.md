@@ -16,7 +16,7 @@
 * [ Android 自定义实现 NavigationView ](http://blog.csdn.net/lmj623565791/article/details/46405409)
 *  [Android 不规则图像填充 小玩着色游戏](http://blog.csdn.net/lmj623565791/article/details/45788433)
 *  [浅谈 MVP in Android](http://blog.csdn.net/lmj623565791/article/details/46596109)
-*  [Android ViewDragHelper完全解析 自定义ViewGroup神器](http://blog.csdn.net/lmj623565791/article/details/46858663)
+*  [Android ViewDragHelper完全解析 自定义View神器](http://blog.csdn.net/lmj623565791/article/details/46858663)
 *  [Android HandlerThread 完全解析](http://blog.csdn.net/lmj623565791/article/details/47079737)
 *  [Android IntentService完全解析 当Service遇到Handler](http://blog.csdn.net/lmj623565791/article/details/47143563)
 
