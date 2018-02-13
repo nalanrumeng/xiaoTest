@@ -57,7 +57,7 @@
 
 <img src="http://img.blog.csdn.net/20150622212940112" width="320px"/>
 
-###[Android ViewDragHelper完全解析 自定义ViewGroup神器](http://blog.csdn.net/lmj623565791/article/details/46858663)
+###[Android ViewDragHelper完全解析 自定义View神器](http://blog.csdn.net/lmj623565791/article/details/46858663)
 
 效果图：
 
